@@ -1,2 +1,2 @@
-# Ultrasonic-glasses-for-the-disabled
-We wanted to make a glasses which is portable and viable for the blind to use and tackle the daily obstacles easily.  It coverts the unaccessible information to accessible sound. This increases the independence and confidence of the blind people. They can't see how beautiful the world is so let us make sure they feel the world safely.
+# AI ---Resume --screening -skill-macther -using-AVL -AND -TRIE-tree
+The AI Resume Skill Matcher uses AVL Tree and Trie Tree data structures to improve resume searching and skill retrieval. It compares candidate skills with job requirements, calculates matching scores, ranks candidates, and displays the top 10 matches through a Streamlit dashboard, making recruitment faster and more efficient.
